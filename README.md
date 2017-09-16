@@ -1,7 +1,7 @@
 # trainticket
 火车购票 App
 
-技术栈: vue 
+技术栈: vue.js + node.js + mysql
 
 软件功能：使广大用户可以从网上查询，购买，改签车票，节省时间，方便大众。
 
